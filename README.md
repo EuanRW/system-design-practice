@@ -153,7 +153,7 @@ The focus of these exercises is not to reproduce the architecture of an existing
 
 ## Progress
 
-* [ ] URL Shortener
+* [X] URL Shortener
 * [ ] Ride-Sharing Platform
 * [ ] Chat Application
 * [ ] Payment Gateway
